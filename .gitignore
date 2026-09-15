@@ -1,0 +1,4 @@
+node_modules/
+registros.json
+registros.json.tmp
+.env
